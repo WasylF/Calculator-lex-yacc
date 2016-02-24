@@ -1,0 +1,7 @@
+calc.lex	-	lex (flex) file		sources
+calc.yacc	-	yacc (bison) file	sources
+
+lex.yy.c	-	lex compilation file	
+
+y.tab.c		-	yacc compilation file
+y.tab.h		-	yacc compilation file
